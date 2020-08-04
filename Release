@@ -1,0 +1,11 @@
+Origin: Apple Cydia
+Label: Apple Cydia
+Suite: stable
+Version: 1.0
+Codename: ios
+Architecture: iphoneos-arm
+Components: main
+Description: Apple Cydia
+MD5Sum:
+ 91f66ab066207627d407bed53f92056a 128050 Packages
+ 0209f0fb7b756ae7a6c543a9761b91ba 27886 Packages.bz2

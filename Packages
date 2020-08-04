@@ -1,0 +1,17 @@
+Package: com.TruongTamPhong.CPUToolVietNam
+Architecture: iphoneos-arm
+Version: 1.8
+Section: Tweaks
+Depends: mobilesubstrate, jp.soh.ct
+Filename: ./debfiles/com.TruongTamPhong.CPUToolVietNam_1.8_iphoneos-arm.deb
+Size: 2276
+MD5sum: cc3303da79aaf12704493d51c4403ac2
+SHA1: 02fe4ce7e5e3c8ec7f62f545b82d37a835820fe3
+SHA256: 9276e70bb7daa0f87184f47c0cc41b7ba92c7d66434bf85b415c53d122b889e2
+SHA512: 0cf6299286d2ffcd2445b538437d8d6803031a07f8e6c7e65acb6ee0bb0f4a05dab1ef29c8a4a6dd31f7c9caa04607ca1cb70b76a2b729a6a9803abd7fa445f1
+Description: Gói tiếng việt dành cho CPUTool
+Name: CPUTool (Gói tiếng Việt)
+Author: Trương Tam Phong
+Depiction: http://truongtamphong..github.io/depictions?p=com.TruongTamPhong.CPUToolVietNam
+SileoDepiction: http://truongtamphong..github.io/depictions?p=com.TruongTamPhong.CPUToolVietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
