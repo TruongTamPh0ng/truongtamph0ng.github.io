@@ -2,6 +2,7 @@ Package: com.TruongTamPhong.CPUToolVietNam
 Architecture: iphoneos-arm
 Version: 1.8
 Section: Tweaks
+Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate, jp.soh.ct
 Filename: ./debfiles/com.TruongTamPhong.CPUToolVietNam_1.8_iphoneos-arm.deb
 Size: 2276
@@ -12,6 +13,7 @@ SHA512: 0cf6299286d2ffcd2445b538437d8d6803031a07f8e6c7e65acb6ee0bb0f4a05dab1ef29
 Description: Gói tiếng việt dành cho CPUTool
 Name: CPUTool (Gói tiếng Việt)
 Author: Trương Tam Phong
-Depiction: http://truongtamphong..github.io/depictions?p=com.TruongTamPhong.CPUToolVietNam
-SileoDepiction: http://truongtamphong..github.io/depictions?p=com.TruongTamPhong.CPUToolVietNam
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.CPUToolVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.CPUToolVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
